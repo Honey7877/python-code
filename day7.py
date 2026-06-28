@@ -28,7 +28,7 @@
 #     def username(self):
 #         print(f"my name is {self.name}")
         
-# u = user ("tanmay",20)
+# u = user ("honey",20)
 # u.username()
 # a = address("kukas","rajasthan")
 # a.location()
