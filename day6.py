@@ -1,5 +1,5 @@
 
-# class tanmay:
+# class honey:
 #   def __init__(self,name):
 #     self.name = name
 #   def show(self):
@@ -9,7 +9,7 @@
 # t.show()
 
 
-# class tanmay:
+# class honey:
 #     def __init__(self):
 #      print("calling constructor")
        
@@ -19,7 +19,7 @@
 # t = tanmay()
 
 
-# class tanmay:
+# class honey:
 #     def __init__(self,name,age):
 #      self.name = name
 #      self.age =age
@@ -30,7 +30,7 @@
 #     def getName(self):
 #         print("my name is:",self.name)
          
-# t = tanmay("hello",20)
+# t = honey("hello",20)
 # t.getAge()
 # t.getName()
 
@@ -76,5 +76,5 @@ class student:
             print()
             
             
-s=student(["tanmay","nikhil","vishu","bilal","harsh"],{"address":"jaipur","college":"arya",})  
+s=student(["honey","nikhil","vishu","bilal","harsh"],{"address":"jaipur","college":"arya",})  
 s.detail()
